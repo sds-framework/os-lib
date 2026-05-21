@@ -32,6 +32,10 @@ func LoadAnyEnv() error {
 	}
 
 	if len(paths) == 0 {
+		err = godotenv.Load()
+		if err != nil {
+			return fmt.Errorf("godotenv.Load(\".env\"): %w", err)
+		}
 		return nil
 	}
 
