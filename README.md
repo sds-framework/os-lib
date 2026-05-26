@@ -1,6 +1,6 @@
 # os-lib
 
-`github.com/sds-framework/os-lib` is a small Go utility library for the SDS framework. It wraps common operating-system concerns—paths, CLI flags, environment files, processes, and ports—so application code does not have to repeat that logic.
+`github.com/noPerfection/os` is a small Go utility library for the SDS framework. It wraps common operating-system concerns—paths, CLI flags, environment files, processes, and ports—so application code does not have to repeat that logic.
 
 ## Disclaimer
 

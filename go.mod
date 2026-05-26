@@ -1,4 +1,4 @@
-module github.com/sds-framework/os-lib
+module github.com/noPerfection/os
 
 go 1.19
 

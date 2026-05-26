@@ -1,7 +1,7 @@
 package env
 
 import (
-	"github.com/sds-framework/os-lib/path"
+	"github.com/noPerfection/os/path"
 	"os"
 	"path/filepath"
 	"testing"

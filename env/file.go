@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/joho/godotenv"
-	"github.com/sds-framework/os-lib/arg"
-	"github.com/sds-framework/os-lib/path"
+	"github.com/noPerfection/os/arg"
+	"github.com/noPerfection/os/path"
 )
 
 // KeyValue is implemented by types that can be written as .env key/value pairs.
